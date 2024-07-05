@@ -1,0 +1,13 @@
+var
+    int a, b;
+    real c;
+
+a = 5;
+b = 10;
+c = a + b * 2;
+if (a <= b) {
+    c = c + a;
+}
+else {
+    b = b - 1;
+}
